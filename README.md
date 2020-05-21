@@ -1,5 +1,5 @@
 # Cadastro-e-atendimento-
-Projeto de conclusão de semestre, discipliana Estrutura de Dados I
+Projeto em equipe de conclusão de semestre, discipliana Estrutura de Dados I
 
 *Equipe*
 
